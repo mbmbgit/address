@@ -1,0 +1,1 @@
+utf_ken_all.csvは郵便局の住所
